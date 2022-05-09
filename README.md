@@ -1,0 +1,2 @@
+# TE_process_diganosis
+基于TE过程的故障诊断方法验证
